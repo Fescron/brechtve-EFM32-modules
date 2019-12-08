@@ -14,7 +14,7 @@
 
 ### Extra modules from this repository
 
-- `debug_dbprint` (see dbprint.brechtve.be)
+- `debug_dbprint` (see [dbprint.brechtve.be](http://dbprint.brechtve.be))
 - `delay`
 - (`util`)
 
